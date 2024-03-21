@@ -1,0 +1,32 @@
+Copilot
+"O que é o Microsoft Azure e quais são as suas funcionalidades de inteligência artificial "
+"Quais são as vantagens de usar o Azure?"
+
+"Faça um código em Java que utilize as caixas de mensagens de saída e entrada do Swing"
+
+"Faça uma imagem realista do mascote elefante do PHP"
+"Faça uma ultrarealista agora"
+
+Design 
+"Faça uma imagem realista do mascote elefante do PHP"
+"Faça uma em um modelo cartoon"
+
+"Faça o mascote do Java de uma forma estillo o traço da Disney"
+"Quero uma imagem dele que parece um astronauta"
+
+Vacation Planner
+"Como eu posso viajar ao Japão e chegar na região da torre de tóquio?"
+"Qual é a melhor época para visitar Tóquio?"
+"Qual é o tempo de uma viagem do Brasil para o Japão"
+
+Cookling Assistant
+"Como eu posso fazer um bolo de aniversário decorado com personagens"
+"Qual é a melhor cobertura para um bolo de aniversário?"
+"Você tem alguma sugestão para cobertura vegana?"
+"Como fazer chantilly vegano?"
+
+Fitness Trainer
+"Qual o melhor momento para alongar"
+"Qual é a diferença entre o alongamento dinâmico e estático?"
+"Qual é o melhor alongamento para as pernas?"
+"Como faço para evitar lesões durante o alongamento?"
